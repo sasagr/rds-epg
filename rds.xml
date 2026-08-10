@@ -217,4 +217,100 @@
     <title lang="it">Francesca Romana &amp; Paolo</title>
     <desc lang="it">Francesca Romana &amp; Paolo</desc>
   </programme>
+  <programme start="20260815000000 +0200" stop="20260815010000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Francesca Romana &amp; Paolo</title>
+    <desc lang="it">Francesca Romana &amp; Paolo</desc>
+  </programme>
+  <programme start="20260815010000 +0200" stop="20260815020000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Notte RDS</title>
+    <desc lang="it">Notte RDS</desc>
+  </programme>
+  <programme start="20260815020000 +0200" stop="20260815030000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Notte RDS</title>
+    <desc lang="it">Notte RDS</desc>
+  </programme>
+  <programme start="20260815030000 +0200" stop="20260815040000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Notte RDS</title>
+    <desc lang="it">Notte RDS</desc>
+  </programme>
+  <programme start="20260815040000 +0200" stop="20260815050000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Notte RDS</title>
+    <desc lang="it">Notte RDS</desc>
+  </programme>
+  <programme start="20260815050000 +0200" stop="20260815060000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Corrado Trisoglio</title>
+    <desc lang="it">Corrado Trisoglio</desc>
+  </programme>
+  <programme start="20260815060000 +0200" stop="20260815070000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Corrado Trisoglio</title>
+    <desc lang="it">Corrado Trisoglio</desc>
+  </programme>
+  <programme start="20260815070000 +0200" stop="20260815080000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Corrado Trisoglio</title>
+    <desc lang="it">Corrado Trisoglio</desc>
+  </programme>
+  <programme start="20260815080000 +0200" stop="20260815090000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Corrado Trisoglio</title>
+    <desc lang="it">Corrado Trisoglio</desc>
+  </programme>
+  <programme start="20260815090000 +0200" stop="20260815100000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Mauro &amp; Renzo</title>
+    <desc lang="it">Mauro &amp; Renzo</desc>
+  </programme>
+  <programme start="20260815100000 +0200" stop="20260815110000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Mauro &amp; Renzo</title>
+    <desc lang="it">Mauro &amp; Renzo</desc>
+  </programme>
+  <programme start="20260815110000 +0200" stop="20260815120000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Mauro &amp; Renzo</title>
+    <desc lang="it">Mauro &amp; Renzo</desc>
+  </programme>
+  <programme start="20260815120000 +0200" stop="20260815130000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Mauro &amp; Renzo</title>
+    <desc lang="it">Mauro &amp; Renzo</desc>
+  </programme>
+  <programme start="20260815130000 +0200" stop="20260815140000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Roberta &amp; Claudio</title>
+    <desc lang="it">Roberta &amp; Claudio</desc>
+  </programme>
+  <programme start="20260815140000 +0200" stop="20260815150000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Roberta &amp; Claudio</title>
+    <desc lang="it">Roberta &amp; Claudio</desc>
+  </programme>
+  <programme start="20260815150000 +0200" stop="20260815160000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Roberta &amp; Claudio</title>
+    <desc lang="it">Roberta &amp; Claudio</desc>
+  </programme>
+  <programme start="20260815160000 +0200" stop="20260815170000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Roberta &amp; Claudio</title>
+    <desc lang="it">Roberta &amp; Claudio</desc>
+  </programme>
+  <programme start="20260815170000 +0200" stop="20260815180000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Filippo e Jason</title>
+    <desc lang="it">Filippo e Jason</desc>
+  </programme>
+  <programme start="20260815180000 +0200" stop="20260815190000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Filippo e Jason</title>
+    <desc lang="it">Filippo e Jason</desc>
+  </programme>
+  <programme start="20260815190000 +0200" stop="20260815200000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Filippo e Jason</title>
+    <desc lang="it">Filippo e Jason</desc>
+  </programme>
+  <programme start="20260815200000 +0200" stop="20260815210000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Filippo e Jason</title>
+    <desc lang="it">Filippo e Jason</desc>
+  </programme>
+  <programme start="20260815210000 +0200" stop="20260815220000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Filippo e Jason</title>
+    <desc lang="it">Filippo e Jason</desc>
+  </programme>
+  <programme start="20260815220000 +0200" stop="20260815230000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Party RDS</title>
+    <desc lang="it">Party RDS</desc>
+  </programme>
+  <programme start="20260815230000 +0200" stop="20260816000000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Party RDS</title>
+    <desc lang="it">Party RDS</desc>
+  </programme>
 </tv>
