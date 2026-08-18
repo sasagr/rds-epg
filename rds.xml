@@ -5,22 +5,6 @@
     <display-name>RDS Social TV</display-name>
     <icon src="https://i.imgur.com/TY6FhqI.png" />
   </channel>
-  <programme start="20260817000000 +0200" stop="20260817010000 +0200" channel="RDSSocialTV.it">
-    <title lang="it">Francesca Romana &amp; Paolo</title>
-    <desc lang="it">Francesca Romana &amp; Paolo</desc>
-  </programme>
-  <programme start="20260817010000 +0200" stop="20260817020000 +0200" channel="RDSSocialTV.it">
-    <title lang="it">Notte RDS</title>
-    <desc lang="it">Notte RDS</desc>
-  </programme>
-  <programme start="20260817020000 +0200" stop="20260817030000 +0200" channel="RDSSocialTV.it">
-    <title lang="it">Notte RDS</title>
-    <desc lang="it">Notte RDS</desc>
-  </programme>
-  <programme start="20260817030000 +0200" stop="20260817040000 +0200" channel="RDSSocialTV.it">
-    <title lang="it">Notte RDS</title>
-    <desc lang="it">Notte RDS</desc>
-  </programme>
   <programme start="20260817040000 +0200" stop="20260818020000 +0200" channel="RDSSocialTV.it">
     <title lang="it">Notte RDS</title>
     <desc lang="it">Notte RDS</desc>
