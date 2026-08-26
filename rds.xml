@@ -597,8 +597,84 @@
     <title lang="it">Notte RDS</title>
     <desc lang="it">Notte RDS</desc>
   </programme>
-  <programme start="20260901040000 +0200" stop="20260902020000 +0200" channel="RDSSocialTV.it">
+  <programme start="20260901040000 +0200" stop="20260901050000 +0200" channel="RDSSocialTV.it">
     <title lang="it">Notte RDS</title>
     <desc lang="it">Notte RDS</desc>
+  </programme>
+  <programme start="20260901050000 +0200" stop="20260901060000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Beppe &amp; Melania</title>
+    <desc lang="it">Beppe &amp; Melania</desc>
+  </programme>
+  <programme start="20260901060000 +0200" stop="20260901070000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Beppe &amp; Melania</title>
+    <desc lang="it">Beppe &amp; Melania</desc>
+  </programme>
+  <programme start="20260901070000 +0200" stop="20260901080000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Tutti Pazzi per RDS</title>
+    <desc lang="it">Tutti Pazzi per RDS</desc>
+  </programme>
+  <programme start="20260901080000 +0200" stop="20260901090000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Tutti Pazzi per RDS</title>
+    <desc lang="it">Tutti Pazzi per RDS</desc>
+  </programme>
+  <programme start="20260901090000 +0200" stop="20260901100000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Tutti Pazzi per RDS</title>
+    <desc lang="it">Tutti Pazzi per RDS</desc>
+  </programme>
+  <programme start="20260901100000 +0200" stop="20260901110000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Anna &amp; Sergio</title>
+    <desc lang="it">Anna &amp; Sergio</desc>
+  </programme>
+  <programme start="20260901110000 +0200" stop="20260901120000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Anna &amp; Sergio</title>
+    <desc lang="it">Anna &amp; Sergio</desc>
+  </programme>
+  <programme start="20260901120000 +0200" stop="20260901130000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Petra &amp; Giovanni</title>
+    <desc lang="it">Petra &amp; Giovanni</desc>
+  </programme>
+  <programme start="20260901130000 +0200" stop="20260901140000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Petra &amp; Giovanni</title>
+    <desc lang="it">Petra &amp; Giovanni</desc>
+  </programme>
+  <programme start="20260901140000 +0200" stop="20260901150000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Petra &amp; Giovanni</title>
+    <desc lang="it">Petra &amp; Giovanni</desc>
+  </programme>
+  <programme start="20260901150000 +0200" stop="20260901160000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Renzo &amp; Roberta Fiore</title>
+    <desc lang="it">Renzo &amp; Roberta Fiore</desc>
+  </programme>
+  <programme start="20260901160000 +0200" stop="20260901170000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Renzo &amp; Roberta Fiore</title>
+    <desc lang="it">Renzo &amp; Roberta Fiore</desc>
+  </programme>
+  <programme start="20260901170000 +0200" stop="20260901180000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Renzo &amp; Roberta Fiore</title>
+    <desc lang="it">Renzo &amp; Roberta Fiore</desc>
+  </programme>
+  <programme start="20260901180000 +0200" stop="20260901190000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Renzo &amp; Roberta Fiore</title>
+    <desc lang="it">Renzo &amp; Roberta Fiore</desc>
+  </programme>
+  <programme start="20260901190000 +0200" stop="20260901200000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Chiara &amp; Mauro</title>
+    <desc lang="it">Chiara &amp; Mauro</desc>
+  </programme>
+  <programme start="20260901200000 +0200" stop="20260901210000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Chiara &amp; Mauro</title>
+    <desc lang="it">Chiara &amp; Mauro</desc>
+  </programme>
+  <programme start="20260901210000 +0200" stop="20260901220000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Chiara &amp; Mauro</title>
+    <desc lang="it">Chiara &amp; Mauro</desc>
+  </programme>
+  <programme start="20260901220000 +0200" stop="20260901230000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Elisabetta &amp; Filippo</title>
+    <desc lang="it">Elisabetta &amp; Filippo</desc>
+  </programme>
+  <programme start="20260901230000 +0200" stop="20260902000000 +0200" channel="RDSSocialTV.it">
+    <title lang="it">Elisabetta e Filippo</title>
+    <desc lang="it">Elisabetta e Filippo</desc>
   </programme>
 </tv>
