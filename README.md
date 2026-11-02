@@ -2,10 +2,12 @@
 
 A tiny cloud-hosted **XMLTV EPG for the Italian channel _RDS Social TV_**.
 
-No public XMLTV guide exists for RDS Social TV, but the official DTT guide **Tivù la Guida** exposes its
-schedule as JSON (channel id `255`). [`generate.py`](generate.py) pulls the next 7 days, converts it to
-XMLTV, and writes [`rds.xml`](rds.xml). A GitHub Action re-runs it every 6 hours and commits the file,
-so any IPTV app (TiViMate, Movie4All, …) can attach the guide to the channel with a plain URL.
+No public XMLTV guide exists for RDS Social TV, but the channel is the television simulcast of RDS
+radio — the same shows, with the studio on camera — so the station's own schedule at
+[rds.it/palinsesto](https://www.rds.it/palinsesto) *is* the channel's schedule.
+[`generate.py`](generate.py) reads that page, converts the next 7 days to XMLTV, and writes
+[`rds.xml`](rds.xml). A GitHub Action re-runs it every 6 hours and commits the file, so any IPTV app
+(TiViMate, Movie4All, …) can attach the guide to the channel with a plain URL.
 
 ## Deploy (once, ~2 minutes)
 
@@ -36,6 +38,15 @@ longer than the raw URL (which refreshes within ~5 minutes of each commit).
 
 ## Notes
 - Times are emitted in Europe/Rome with a DST-correct offset (`+0200` summer / `+0100` winter).
-- If the guide ever goes stale, Tivù la Guida likely changed its API or the channel id — fix
-  `TIVU_CHANNEL_ID` / `CHANNEL_ID` in `generate.py`. Nothing in the app needs to change.
-- Data source: `services.tivulaguida.it`. This project just reformats a public schedule into XMLTV.
+- Each programme ends where the next begins, taken from the page's own running order rather than
+  from the stated duration, so the guide has no holes in it.
+- If the guide goes stale, the page's markup has moved: the run says so explicitly, and the fix is
+  the handful of patterns at the top of `generate.py`. Nothing in the app needs to change.
+- Data source: `www.rds.it/palinsesto`. This project just reformats a public schedule into XMLTV.
+
+### Why not Tivù la Guida
+Until November 2026 this read the DTT guide **Tivù la Guida** (`services.tivulaguida.it`, channel id
+`255`). RDS stopped supplying it around 23 October 2026: the API kept answering, but its seven-day
+window drained a day at a time — 162 programmes, then 161, 145, 121, 98, 75, 52, 29, 6, 1 — until on
+2 November there were none and the run failed. The official page does not depend on a third party
+being kept up to date, and carries thirteen days rather than seven.

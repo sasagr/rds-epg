@@ -1,12 +1,466 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="rds-epg" source-info-name="Tivu la Guida">
+<tv generator-info-name="rds-epg" source-info-name="RDS (rds.it/palinsesto)">
   <channel id="RDSSocialTV.it">
     <display-name>RDS Social TV</display-name>
     <icon src="https://i.imgur.com/TY6FhqI.png" />
   </channel>
-  <programme start="20261031050000 +0100" stop="20261101020000 +0100" channel="RDSSocialTV.it">
+  <programme start="20261101210000 +0100" stop="20261102010000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Francesca Romana &amp; Paolo</title>
+    <desc lang="it">Con Francesca Romana D'Andrea, Paolo Piva.</desc>
+    <credits>
+      <presenter>Francesca Romana D'Andrea</presenter>
+      <presenter>Paolo Piva</presenter>
+    </credits>
+  </programme>
+  <programme start="20261102010000 +0100" stop="20261102050000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Corrado Trisoglio</title>
+    <desc lang="it">Con Corrado Trisoglio.</desc>
+    <credits>
+      <presenter>Corrado Trisoglio</presenter>
+    </credits>
+  </programme>
+  <programme start="20261102050000 +0100" stop="20261102070000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Beppe &amp; Melania</title>
+    <desc lang="it">Con Melania Agrimano, Beppe De Marco.</desc>
+    <credits>
+      <presenter>Melania Agrimano</presenter>
+      <presenter>Beppe De Marco</presenter>
+    </credits>
+  </programme>
+  <programme start="20261102070000 +0100" stop="20261102100000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Tutti Pazzi per RDS</title>
+    <desc lang="it">Con Rossella Brescia, Giacomo Valenti, Marco Bazzoni.</desc>
+    <credits>
+      <presenter>Rossella Brescia</presenter>
+      <presenter>Giacomo Valenti</presenter>
+      <presenter>Marco Bazzoni</presenter>
+    </credits>
+  </programme>
+  <programme start="20261102100000 +0100" stop="20261102120000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Anna &amp; Sergio</title>
+    <desc lang="it">Con Anna Pettinelli, Sergio Friscia.</desc>
+    <credits>
+      <presenter>Anna Pettinelli</presenter>
+      <presenter>Sergio Friscia</presenter>
+    </credits>
+  </programme>
+  <programme start="20261102120000 +0100" stop="20261102150000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Petra &amp; Giovanni</title>
+    <desc lang="it">Con Petra Loreggian, Giovanni Vernia.</desc>
+    <credits>
+      <presenter>Petra Loreggian</presenter>
+      <presenter>Giovanni Vernia</presenter>
+    </credits>
+  </programme>
+  <programme start="20261102150000 +0100" stop="20261102190000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Roberta &amp; Claudio</title>
+    <desc lang="it">Con Roberta Lanfranchi, Claudio Guerrini.</desc>
+    <credits>
+      <presenter>Roberta Lanfranchi</presenter>
+      <presenter>Claudio Guerrini</presenter>
+    </credits>
+  </programme>
+  <programme start="20261102190000 +0100" stop="20261102220000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Chiara &amp; Mauro</title>
+    <desc lang="it">Con Chiara De Pisa, Mauro Casciari.</desc>
+    <credits>
+      <presenter>Chiara De Pisa</presenter>
+      <presenter>Mauro Casciari</presenter>
+    </credits>
+  </programme>
+  <programme start="20261102220000 +0100" stop="20261103010000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Elisabetta &amp; Jason</title>
+    <desc lang="it">Con Jason Gagliani, Elisabetta Sacchi.</desc>
+    <credits>
+      <presenter>Jason Gagliani</presenter>
+      <presenter>Elisabetta Sacchi</presenter>
+    </credits>
+  </programme>
+  <programme start="20261103010000 +0100" stop="20261103050000 +0100" channel="RDSSocialTV.it">
     <title lang="it">Alessandro &amp; Filippo</title>
-    <desc lang="it">Alessandro &amp; Filippo</desc>
+    <desc lang="it">Con Alessandro Corsi, Filippo Ferraro.</desc>
+    <credits>
+      <presenter>Alessandro Corsi</presenter>
+      <presenter>Filippo Ferraro</presenter>
+    </credits>
+  </programme>
+  <programme start="20261103050000 +0100" stop="20261103070000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Beppe &amp; Melania</title>
+    <desc lang="it">Con Melania Agrimano, Beppe De Marco.</desc>
+    <credits>
+      <presenter>Melania Agrimano</presenter>
+      <presenter>Beppe De Marco</presenter>
+    </credits>
+  </programme>
+  <programme start="20261103070000 +0100" stop="20261103100000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Tutti Pazzi per RDS</title>
+    <desc lang="it">Con Rossella Brescia, Giacomo Valenti, Marco Bazzoni.</desc>
+    <credits>
+      <presenter>Rossella Brescia</presenter>
+      <presenter>Giacomo Valenti</presenter>
+      <presenter>Marco Bazzoni</presenter>
+    </credits>
+  </programme>
+  <programme start="20261103100000 +0100" stop="20261103120000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Anna &amp; Sergio</title>
+    <desc lang="it">Con Anna Pettinelli, Sergio Friscia.</desc>
+    <credits>
+      <presenter>Anna Pettinelli</presenter>
+      <presenter>Sergio Friscia</presenter>
+    </credits>
+  </programme>
+  <programme start="20261103120000 +0100" stop="20261103150000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Petra &amp; Giovanni</title>
+    <desc lang="it">Con Petra Loreggian, Giovanni Vernia.</desc>
+    <credits>
+      <presenter>Petra Loreggian</presenter>
+      <presenter>Giovanni Vernia</presenter>
+    </credits>
+  </programme>
+  <programme start="20261103150000 +0100" stop="20261103190000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Roberta &amp; Claudio</title>
+    <desc lang="it">Con Roberta Lanfranchi, Claudio Guerrini.</desc>
+    <credits>
+      <presenter>Roberta Lanfranchi</presenter>
+      <presenter>Claudio Guerrini</presenter>
+    </credits>
+  </programme>
+  <programme start="20261103190000 +0100" stop="20261103220000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Chiara &amp; Mauro</title>
+    <desc lang="it">Con Chiara De Pisa, Mauro Casciari.</desc>
+    <credits>
+      <presenter>Chiara De Pisa</presenter>
+      <presenter>Mauro Casciari</presenter>
+    </credits>
+  </programme>
+  <programme start="20261103220000 +0100" stop="20261104010000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Elisabetta &amp; Jason</title>
+    <desc lang="it">Con Jason Gagliani, Elisabetta Sacchi.</desc>
+    <credits>
+      <presenter>Jason Gagliani</presenter>
+      <presenter>Elisabetta Sacchi</presenter>
+    </credits>
+  </programme>
+  <programme start="20261104010000 +0100" stop="20261104050000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Alessandro &amp; Filippo</title>
+    <desc lang="it">Con Alessandro Corsi, Filippo Ferraro.</desc>
+    <credits>
+      <presenter>Alessandro Corsi</presenter>
+      <presenter>Filippo Ferraro</presenter>
+    </credits>
+  </programme>
+  <programme start="20261104050000 +0100" stop="20261104070000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Beppe &amp; Melania</title>
+    <desc lang="it">Con Melania Agrimano, Beppe De Marco.</desc>
+    <credits>
+      <presenter>Melania Agrimano</presenter>
+      <presenter>Beppe De Marco</presenter>
+    </credits>
+  </programme>
+  <programme start="20261104070000 +0100" stop="20261104100000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Tutti Pazzi per RDS</title>
+    <desc lang="it">Con Rossella Brescia, Giacomo Valenti, Marco Bazzoni.</desc>
+    <credits>
+      <presenter>Rossella Brescia</presenter>
+      <presenter>Giacomo Valenti</presenter>
+      <presenter>Marco Bazzoni</presenter>
+    </credits>
+  </programme>
+  <programme start="20261104100000 +0100" stop="20261104120000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Anna &amp; Sergio</title>
+    <desc lang="it">Con Anna Pettinelli, Sergio Friscia.</desc>
+    <credits>
+      <presenter>Anna Pettinelli</presenter>
+      <presenter>Sergio Friscia</presenter>
+    </credits>
+  </programme>
+  <programme start="20261104120000 +0100" stop="20261104150000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Petra &amp; Giovanni</title>
+    <desc lang="it">Con Petra Loreggian, Giovanni Vernia.</desc>
+    <credits>
+      <presenter>Petra Loreggian</presenter>
+      <presenter>Giovanni Vernia</presenter>
+    </credits>
+  </programme>
+  <programme start="20261104150000 +0100" stop="20261104190000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Roberta &amp; Claudio</title>
+    <desc lang="it">Con Roberta Lanfranchi, Claudio Guerrini.</desc>
+    <credits>
+      <presenter>Roberta Lanfranchi</presenter>
+      <presenter>Claudio Guerrini</presenter>
+    </credits>
+  </programme>
+  <programme start="20261104190000 +0100" stop="20261104220000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Chiara &amp; Mauro</title>
+    <desc lang="it">Con Chiara De Pisa, Mauro Casciari.</desc>
+    <credits>
+      <presenter>Chiara De Pisa</presenter>
+      <presenter>Mauro Casciari</presenter>
+    </credits>
+  </programme>
+  <programme start="20261104220000 +0100" stop="20261105010000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Elisabetta &amp; Jason</title>
+    <desc lang="it">Con Jason Gagliani, Elisabetta Sacchi.</desc>
+    <credits>
+      <presenter>Jason Gagliani</presenter>
+      <presenter>Elisabetta Sacchi</presenter>
+    </credits>
+  </programme>
+  <programme start="20261105010000 +0100" stop="20261105050000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Alessandro &amp; Filippo</title>
+    <desc lang="it">Con Alessandro Corsi, Filippo Ferraro.</desc>
+    <credits>
+      <presenter>Alessandro Corsi</presenter>
+      <presenter>Filippo Ferraro</presenter>
+    </credits>
+  </programme>
+  <programme start="20261105050000 +0100" stop="20261105070000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Beppe &amp; Melania</title>
+    <desc lang="it">Con Melania Agrimano, Beppe De Marco.</desc>
+    <credits>
+      <presenter>Melania Agrimano</presenter>
+      <presenter>Beppe De Marco</presenter>
+    </credits>
+  </programme>
+  <programme start="20261105070000 +0100" stop="20261105100000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Tutti Pazzi per RDS</title>
+    <desc lang="it">Con Rossella Brescia, Giacomo Valenti, Marco Bazzoni.</desc>
+    <credits>
+      <presenter>Rossella Brescia</presenter>
+      <presenter>Giacomo Valenti</presenter>
+      <presenter>Marco Bazzoni</presenter>
+    </credits>
+  </programme>
+  <programme start="20261105100000 +0100" stop="20261105120000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Anna &amp; Sergio</title>
+    <desc lang="it">Con Anna Pettinelli, Sergio Friscia.</desc>
+    <credits>
+      <presenter>Anna Pettinelli</presenter>
+      <presenter>Sergio Friscia</presenter>
+    </credits>
+  </programme>
+  <programme start="20261105120000 +0100" stop="20261105150000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Petra &amp; Giovanni</title>
+    <desc lang="it">Con Petra Loreggian, Giovanni Vernia.</desc>
+    <credits>
+      <presenter>Petra Loreggian</presenter>
+      <presenter>Giovanni Vernia</presenter>
+    </credits>
+  </programme>
+  <programme start="20261105150000 +0100" stop="20261105190000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Roberta &amp; Claudio</title>
+    <desc lang="it">Con Roberta Lanfranchi, Claudio Guerrini.</desc>
+    <credits>
+      <presenter>Roberta Lanfranchi</presenter>
+      <presenter>Claudio Guerrini</presenter>
+    </credits>
+  </programme>
+  <programme start="20261105190000 +0100" stop="20261105220000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Chiara &amp; Mauro</title>
+    <desc lang="it">Con Chiara De Pisa, Mauro Casciari.</desc>
+    <credits>
+      <presenter>Chiara De Pisa</presenter>
+      <presenter>Mauro Casciari</presenter>
+    </credits>
+  </programme>
+  <programme start="20261105220000 +0100" stop="20261106010000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Elisabetta &amp; Jason</title>
+    <desc lang="it">Con Jason Gagliani, Elisabetta Sacchi.</desc>
+    <credits>
+      <presenter>Jason Gagliani</presenter>
+      <presenter>Elisabetta Sacchi</presenter>
+    </credits>
+  </programme>
+  <programme start="20261106010000 +0100" stop="20261106050000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Alessandro &amp; Filippo</title>
+    <desc lang="it">Con Alessandro Corsi, Filippo Ferraro.</desc>
+    <credits>
+      <presenter>Alessandro Corsi</presenter>
+      <presenter>Filippo Ferraro</presenter>
+    </credits>
+  </programme>
+  <programme start="20261106050000 +0100" stop="20261106070000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Beppe &amp; Melania</title>
+    <desc lang="it">Con Melania Agrimano, Beppe De Marco.</desc>
+    <credits>
+      <presenter>Melania Agrimano</presenter>
+      <presenter>Beppe De Marco</presenter>
+    </credits>
+  </programme>
+  <programme start="20261106070000 +0100" stop="20261106100000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Tutti Pazzi per RDS</title>
+    <desc lang="it">Con Rossella Brescia, Giacomo Valenti, Marco Bazzoni.</desc>
+    <credits>
+      <presenter>Rossella Brescia</presenter>
+      <presenter>Giacomo Valenti</presenter>
+      <presenter>Marco Bazzoni</presenter>
+    </credits>
+  </programme>
+  <programme start="20261106100000 +0100" stop="20261106120000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Anna &amp; Sergio</title>
+    <desc lang="it">Con Anna Pettinelli, Sergio Friscia.</desc>
+    <credits>
+      <presenter>Anna Pettinelli</presenter>
+      <presenter>Sergio Friscia</presenter>
+    </credits>
+  </programme>
+  <programme start="20261106120000 +0100" stop="20261106140000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Petra &amp; Renzo</title>
+    <desc lang="it">Con Petra Loreggian, Renzo Di Falco.</desc>
+    <credits>
+      <presenter>Petra Loreggian</presenter>
+      <presenter>Renzo Di Falco</presenter>
+    </credits>
+  </programme>
+  <programme start="20261106140000 +0100" stop="20261106150000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Petra &amp; Giovanni</title>
+    <desc lang="it">Con Petra Loreggian, Giovanni Vernia.</desc>
+    <credits>
+      <presenter>Petra Loreggian</presenter>
+      <presenter>Giovanni Vernia</presenter>
+    </credits>
+  </programme>
+  <programme start="20261106150000 +0100" stop="20261106190000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Roberta &amp; Claudio</title>
+    <desc lang="it">Con Roberta Lanfranchi, Claudio Guerrini.</desc>
+    <credits>
+      <presenter>Roberta Lanfranchi</presenter>
+      <presenter>Claudio Guerrini</presenter>
+    </credits>
+  </programme>
+  <programme start="20261106190000 +0100" stop="20261106220000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Mauro &amp; Roberta Fiore</title>
+    <desc lang="it">Con Roberta Fiore, Mauro Casciari.</desc>
+    <credits>
+      <presenter>Roberta Fiore</presenter>
+      <presenter>Mauro Casciari</presenter>
+    </credits>
+  </programme>
+  <programme start="20261106220000 +0100" stop="20261107010000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Francesca Romana &amp; Paolo</title>
+    <desc lang="it">Con Francesca Romana D'Andrea, Paolo Piva.</desc>
+    <credits>
+      <presenter>Francesca Romana D'Andrea</presenter>
+      <presenter>Paolo Piva</presenter>
+    </credits>
+  </programme>
+  <programme start="20261107010000 +0100" stop="20261107050000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Alessandro &amp; Filippo</title>
+    <desc lang="it">Con Alessandro Corsi, Filippo Ferraro.</desc>
+    <credits>
+      <presenter>Alessandro Corsi</presenter>
+      <presenter>Filippo Ferraro</presenter>
+    </credits>
+  </programme>
+  <programme start="20261107050000 +0100" stop="20261107070000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Max &amp; Roberta Fiore</title>
+    <desc lang="it">Con Roberta Fiore, Max Del Buono.</desc>
+    <credits>
+      <presenter>Roberta Fiore</presenter>
+      <presenter>Max Del Buono</presenter>
+    </credits>
+  </programme>
+  <programme start="20261107070000 +0100" stop="20261107100000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Tutti Pazzi per RDS</title>
+    <desc lang="it">Con Rossella Brescia, Giacomo Valenti, Marco Bazzoni.</desc>
+    <credits>
+      <presenter>Rossella Brescia</presenter>
+      <presenter>Giacomo Valenti</presenter>
+      <presenter>Marco Bazzoni</presenter>
+    </credits>
+  </programme>
+  <programme start="20261107100000 +0100" stop="20261107120000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Anna &amp; Sergio</title>
+    <desc lang="it">Con Anna Pettinelli, Sergio Friscia.</desc>
+    <credits>
+      <presenter>Anna Pettinelli</presenter>
+      <presenter>Sergio Friscia</presenter>
+    </credits>
+  </programme>
+  <programme start="20261107120000 +0100" stop="20261107140000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Petra &amp; Renzo</title>
+    <desc lang="it">Con Petra Loreggian, Renzo Di Falco.</desc>
+    <credits>
+      <presenter>Petra Loreggian</presenter>
+      <presenter>Renzo Di Falco</presenter>
+    </credits>
+  </programme>
+  <programme start="20261107140000 +0100" stop="20261107150000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Petra &amp; Giovanni</title>
+    <desc lang="it">Con Petra Loreggian, Giovanni Vernia.</desc>
+    <credits>
+      <presenter>Petra Loreggian</presenter>
+      <presenter>Giovanni Vernia</presenter>
+    </credits>
+  </programme>
+  <programme start="20261107150000 +0100" stop="20261107190000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Roberta &amp; Claudio</title>
+    <desc lang="it">Con Roberta Lanfranchi, Claudio Guerrini.</desc>
+    <credits>
+      <presenter>Roberta Lanfranchi</presenter>
+      <presenter>Claudio Guerrini</presenter>
+    </credits>
+  </programme>
+  <programme start="20261107190000 +0100" stop="20261107220000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Francesca &amp; Paolo</title>
+    <desc lang="it">Con Francesca Manzini, Paolo Piva.</desc>
+    <credits>
+      <presenter>Francesca Manzini</presenter>
+      <presenter>Paolo Piva</presenter>
+    </credits>
+  </programme>
+  <programme start="20261107220000 +0100" stop="20261108010000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Party RDS</title>
+    <desc lang="it">Con Party RDS.</desc>
+    <credits>
+      <presenter>Party RDS</presenter>
+    </credits>
+  </programme>
+  <programme start="20261108010000 +0100" stop="20261108050000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Corrado Trisoglio</title>
+    <desc lang="it">Con Corrado Trisoglio.</desc>
+    <credits>
+      <presenter>Corrado Trisoglio</presenter>
+    </credits>
+  </programme>
+  <programme start="20261108050000 +0100" stop="20261108090000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Max Del Buono</title>
+    <desc lang="it">Con Max Del Buono.</desc>
+    <credits>
+      <presenter>Max Del Buono</presenter>
+    </credits>
+  </programme>
+  <programme start="20261108090000 +0100" stop="20261108130000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Chiara &amp; Leo</title>
+    <desc lang="it">Con Chiara De Pisa, Leo Di Bello.</desc>
+    <credits>
+      <presenter>Chiara De Pisa</presenter>
+      <presenter>Leo Di Bello</presenter>
+    </credits>
+  </programme>
+  <programme start="20261108130000 +0100" stop="20261108170000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Jason &amp; Roberta Fiore</title>
+    <desc lang="it">Con Jason Gagliani, Roberta Fiore.</desc>
+    <credits>
+      <presenter>Jason Gagliani</presenter>
+      <presenter>Roberta Fiore</presenter>
+    </credits>
+  </programme>
+  <programme start="20261108170000 +0100" stop="20261108210000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Francesca &amp; Renzo</title>
+    <desc lang="it">Con Francesca Manzini, Renzo Di Falco.</desc>
+    <credits>
+      <presenter>Francesca Manzini</presenter>
+      <presenter>Renzo Di Falco</presenter>
+    </credits>
+  </programme>
+  <programme start="20261108210000 +0100" stop="20261109010000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Francesca Romana &amp; Paolo</title>
+    <desc lang="it">Con Francesca Romana D'Andrea, Paolo Piva.</desc>
+    <credits>
+      <presenter>Francesca Romana D'Andrea</presenter>
+      <presenter>Paolo Piva</presenter>
+    </credits>
   </programme>
 </tv>
