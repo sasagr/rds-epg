@@ -38,10 +38,10 @@
     </credits>
   </programme>
   <programme start="20261109100000 +0100" stop="20261109120000 +0100" channel="RDSSocialTV.it">
-    <title lang="it">Anna &amp; Sergio</title>
-    <desc lang="it">Con Anna Pettinelli, Sergio Friscia.</desc>
+    <title lang="it">Roberta Fiore &amp; Sergio</title>
+    <desc lang="it">Con Roberta Fiore, Sergio Friscia.</desc>
     <credits>
-      <presenter>Anna Pettinelli</presenter>
+      <presenter>Roberta Fiore</presenter>
       <presenter>Sergio Friscia</presenter>
     </credits>
   </programme>
@@ -425,17 +425,18 @@
     </credits>
   </programme>
   <programme start="20261115050000 +0100" stop="20261115090000 +0100" channel="RDSSocialTV.it">
-    <title lang="it">Max Del Buono</title>
-    <desc lang="it">Con Max Del Buono.</desc>
+    <title lang="it">Max &amp; Roberta Fiore</title>
+    <desc lang="it">Con Roberta Fiore, Max Del Buono.</desc>
     <credits>
+      <presenter>Roberta Fiore</presenter>
       <presenter>Max Del Buono</presenter>
     </credits>
   </programme>
   <programme start="20261115090000 +0100" stop="20261115130000 +0100" channel="RDSSocialTV.it">
-    <title lang="it">Leo &amp; Roberta Fiore</title>
-    <desc lang="it">Con Roberta Fiore, Leo Di Bello.</desc>
+    <title lang="it">Chiara &amp; Leo</title>
+    <desc lang="it">Con Chiara De Pisa, Leo Di Bello.</desc>
     <credits>
-      <presenter>Roberta Fiore</presenter>
+      <presenter>Chiara De Pisa</presenter>
       <presenter>Leo Di Bello</presenter>
     </credits>
   </programme>
