@@ -5,52 +5,6 @@
     <display-name>RDS Social TV</display-name>
     <icon src="https://i.imgur.com/TY6FhqI.png" />
   </channel>
-  <programme start="20261114220000 +0100" stop="20261115010000 +0100" channel="RDSSocialTV.it">
-    <title lang="it">Party RDS</title>
-    <desc lang="it">Con Party RDS.</desc>
-    <credits>
-      <presenter>Party RDS</presenter>
-    </credits>
-  </programme>
-  <programme start="20261115010000 +0100" stop="20261115050000 +0100" channel="RDSSocialTV.it">
-    <title lang="it">Corrado Trisoglio</title>
-    <desc lang="it">Con Corrado Trisoglio.</desc>
-    <credits>
-      <presenter>Corrado Trisoglio</presenter>
-    </credits>
-  </programme>
-  <programme start="20261115050000 +0100" stop="20261115090000 +0100" channel="RDSSocialTV.it">
-    <title lang="it">Francesca &amp; Max</title>
-    <desc lang="it">Con Francesca Manzini, Max Del Buono.</desc>
-    <credits>
-      <presenter>Francesca Manzini</presenter>
-      <presenter>Max Del Buono</presenter>
-    </credits>
-  </programme>
-  <programme start="20261115090000 +0100" stop="20261115130000 +0100" channel="RDSSocialTV.it">
-    <title lang="it">Chiara &amp; Leo</title>
-    <desc lang="it">Con Chiara De Pisa, Leo Di Bello.</desc>
-    <credits>
-      <presenter>Chiara De Pisa</presenter>
-      <presenter>Leo Di Bello</presenter>
-    </credits>
-  </programme>
-  <programme start="20261115130000 +0100" stop="20261115170000 +0100" channel="RDSSocialTV.it">
-    <title lang="it">Elisabetta &amp; Jason</title>
-    <desc lang="it">Con Jason Gagliani, Elisabetta Sacchi.</desc>
-    <credits>
-      <presenter>Jason Gagliani</presenter>
-      <presenter>Elisabetta Sacchi</presenter>
-    </credits>
-  </programme>
-  <programme start="20261115170000 +0100" stop="20261115210000 +0100" channel="RDSSocialTV.it">
-    <title lang="it">Renzo &amp; Roberta Fiore</title>
-    <desc lang="it">Con Roberta Fiore, Renzo Di Falco.</desc>
-    <credits>
-      <presenter>Roberta Fiore</presenter>
-      <presenter>Renzo Di Falco</presenter>
-    </credits>
-  </programme>
   <programme start="20261115210000 +0100" stop="20261116010000 +0100" channel="RDSSocialTV.it">
     <title lang="it">Francesca Romana &amp; Paolo</title>
     <desc lang="it">Con Francesca Romana D'Andrea, Paolo Piva.</desc>
@@ -459,6 +413,53 @@
     <desc lang="it">Con Party RDS.</desc>
     <credits>
       <presenter>Party RDS</presenter>
+    </credits>
+  </programme>
+  <programme start="20261122010000 +0100" stop="20261122050000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Corrado Trisoglio</title>
+    <desc lang="it">Con Corrado Trisoglio.</desc>
+    <credits>
+      <presenter>Corrado Trisoglio</presenter>
+    </credits>
+  </programme>
+  <programme start="20261122050000 +0100" stop="20261122090000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Max &amp; Roberta Fiore</title>
+    <desc lang="it">Con Roberta Fiore, Max Del Buono.</desc>
+    <credits>
+      <presenter>Roberta Fiore</presenter>
+      <presenter>Max Del Buono</presenter>
+    </credits>
+  </programme>
+  <programme start="20261122090000 +0100" stop="20261122130000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Chiara &amp; Leo</title>
+    <desc lang="it">Con Chiara De Pisa, Leo Di Bello.</desc>
+    <credits>
+      <presenter>Chiara De Pisa</presenter>
+      <presenter>Leo Di Bello</presenter>
+    </credits>
+  </programme>
+  <programme start="20261122130000 +0100" stop="20261122170000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Elisabetta &amp; Jason</title>
+    <desc lang="it">Con Jason Gagliani, Elisabetta Sacchi.</desc>
+    <credits>
+      <presenter>Jason Gagliani</presenter>
+      <presenter>Elisabetta Sacchi</presenter>
+    </credits>
+  </programme>
+  <programme start="20261122170000 +0100" stop="20261122210000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Francesca &amp; Renzo</title>
+    <desc lang="it">Con Francesca Manzini, Renzo Di Falco.</desc>
+    <credits>
+      <presenter>Francesca Manzini</presenter>
+      <presenter>Renzo Di Falco</presenter>
+    </credits>
+  </programme>
+  <programme start="20261122210000 +0100" stop="20261123010000 +0100" channel="RDSSocialTV.it">
+    <title lang="it">Francesca Romana &amp; Paolo</title>
+    <desc lang="it">Con Francesca Romana D'Andrea, Paolo Piva.</desc>
+    <credits>
+      <presenter>Francesca Romana D'Andrea</presenter>
+      <presenter>Paolo Piva</presenter>
     </credits>
   </programme>
 </tv>
