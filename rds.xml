@@ -175,15 +175,7 @@
       <presenter>Leo Di Bello</presenter>
     </credits>
   </programme>
-  <programme start="20261120120000 +0100" stop="20261120140000 +0100" channel="RDSSocialTV.it">
-    <title lang="it">Petra &amp; Renzo</title>
-    <desc lang="it">Con Petra Loreggian, Renzo Di Falco.</desc>
-    <credits>
-      <presenter>Petra Loreggian</presenter>
-      <presenter>Renzo Di Falco</presenter>
-    </credits>
-  </programme>
-  <programme start="20261120140000 +0100" stop="20261120150000 +0100" channel="RDSSocialTV.it">
+  <programme start="20261120120000 +0100" stop="20261120150000 +0100" channel="RDSSocialTV.it">
     <title lang="it">Petra &amp; Giovanni</title>
     <desc lang="it">Con Petra Loreggian, Giovanni Vernia.</desc>
     <credits>
@@ -248,15 +240,7 @@
       <presenter>Leo Di Bello</presenter>
     </credits>
   </programme>
-  <programme start="20261121120000 +0100" stop="20261121140000 +0100" channel="RDSSocialTV.it">
-    <title lang="it">Petra &amp; Renzo</title>
-    <desc lang="it">Con Petra Loreggian, Renzo Di Falco.</desc>
-    <credits>
-      <presenter>Petra Loreggian</presenter>
-      <presenter>Renzo Di Falco</presenter>
-    </credits>
-  </programme>
-  <programme start="20261121140000 +0100" stop="20261121150000 +0100" channel="RDSSocialTV.it">
+  <programme start="20261121120000 +0100" stop="20261121150000 +0100" channel="RDSSocialTV.it">
     <title lang="it">Petra &amp; Giovanni</title>
     <desc lang="it">Con Petra Loreggian, Giovanni Vernia.</desc>
     <credits>
@@ -273,11 +257,11 @@
     </credits>
   </programme>
   <programme start="20261121190000 +0100" stop="20261121220000 +0100" channel="RDSSocialTV.it">
-    <title lang="it">Francesca &amp; Paolo</title>
-    <desc lang="it">Con Francesca Manzini, Paolo Piva.</desc>
+    <title lang="it">Francesca &amp; Renzo</title>
+    <desc lang="it">Con Francesca Manzini, Renzo Di Falco.</desc>
     <credits>
       <presenter>Francesca Manzini</presenter>
-      <presenter>Paolo Piva</presenter>
+      <presenter>Renzo Di Falco</presenter>
     </credits>
   </programme>
   <programme start="20261121220000 +0100" stop="20261122010000 +0100" channel="RDSSocialTV.it">
