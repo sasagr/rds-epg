@@ -85,10 +85,10 @@
     </credits>
   </programme>
   <programme start="20261125050000 +0100" stop="20261125070000 +0100" channel="RDSSocialTV.it">
-    <title lang="it">Beppe &amp; Melania</title>
-    <desc lang="it">Con Melania Agrimano, Beppe De Marco.</desc>
+    <title lang="it">Beppe &amp; Roberta Fiore</title>
+    <desc lang="it">Con Roberta Fiore, Beppe De Marco.</desc>
     <credits>
-      <presenter>Melania Agrimano</presenter>
+      <presenter>Roberta Fiore</presenter>
       <presenter>Beppe De Marco</presenter>
     </credits>
   </programme>
@@ -356,10 +356,9 @@
     </credits>
   </programme>
   <programme start="20261129050000 +0100" stop="20261129090000 +0100" channel="RDSSocialTV.it">
-    <title lang="it">Max &amp; Roberta Fiore</title>
-    <desc lang="it">Con Roberta Fiore, Max Del Buono.</desc>
+    <title lang="it">Max Del Buono</title>
+    <desc lang="it">Con Max Del Buono.</desc>
     <credits>
-      <presenter>Roberta Fiore</presenter>
       <presenter>Max Del Buono</presenter>
     </credits>
   </programme>
@@ -403,11 +402,11 @@
     </credits>
   </programme>
   <programme start="20261130050000 +0100" stop="20261130070000 +0100" channel="RDSSocialTV.it">
-    <title lang="it">Beppe &amp; Melania</title>
-    <desc lang="it">Con Melania Agrimano, Beppe De Marco.</desc>
+    <title lang="it">Max &amp; Roberta Fiore</title>
+    <desc lang="it">Con Roberta Fiore, Max Del Buono.</desc>
     <credits>
-      <presenter>Melania Agrimano</presenter>
-      <presenter>Beppe De Marco</presenter>
+      <presenter>Roberta Fiore</presenter>
+      <presenter>Max Del Buono</presenter>
     </credits>
   </programme>
   <programme start="20261130070000 +0100" stop="20261130100000 +0100" channel="RDSSocialTV.it">
