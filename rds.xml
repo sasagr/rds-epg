@@ -87,10 +87,9 @@
     </credits>
   </programme>
   <programme start="20261126050000 +0100" stop="20261126070000 +0100" channel="RDSSocialTV.it">
-    <title lang="it">Beppe &amp; Melania</title>
-    <desc lang="it">Con Melania Agrimano, Beppe De Marco.</desc>
+    <title lang="it">Beppe</title>
+    <desc lang="it">Con Beppe De Marco.</desc>
     <credits>
-      <presenter>Melania Agrimano</presenter>
       <presenter>Beppe De Marco</presenter>
     </credits>
   </programme>
@@ -151,10 +150,9 @@
     </credits>
   </programme>
   <programme start="20261127050000 +0100" stop="20261127070000 +0100" channel="RDSSocialTV.it">
-    <title lang="it">Beppe &amp; Melania</title>
-    <desc lang="it">Con Melania Agrimano, Beppe De Marco.</desc>
+    <title lang="it">Beppe</title>
+    <desc lang="it">Con Beppe De Marco.</desc>
     <credits>
-      <presenter>Melania Agrimano</presenter>
       <presenter>Beppe De Marco</presenter>
     </credits>
   </programme>
