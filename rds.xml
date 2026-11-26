@@ -70,19 +70,15 @@
     </credits>
   </programme>
   <programme start="20261126220000 +0100" stop="20261127010000 +0100" channel="RDSSocialTV.it">
-    <title lang="it">Elisabetta &amp; Jason</title>
-    <desc lang="it">Con Jason Gagliani, Elisabetta Sacchi.</desc>
+    <title lang="it">Alessandro &amp; Jason</title>
+    <desc lang="it">Con Jason Gagliani, Alessandro Corsi.</desc>
     <credits>
       <presenter>Jason Gagliani</presenter>
-      <presenter>Elisabetta Sacchi</presenter>
+      <presenter>Alessandro Corsi</presenter>
     </credits>
   </programme>
   <programme start="20261127010000 +0100" stop="20261127050000 +0100" channel="RDSSocialTV.it">
-    <title lang="it">Alessandro</title>
-    <desc lang="it">Con Alessandro Corsi.</desc>
-    <credits>
-      <presenter>Alessandro Corsi</presenter>
-    </credits>
+    <title lang="it">Notte RDS</title>
   </programme>
   <programme start="20261127050000 +0100" stop="20261127070000 +0100" channel="RDSSocialTV.it">
     <title lang="it">Beppe</title>
@@ -272,11 +268,11 @@
     </credits>
   </programme>
   <programme start="20261130050000 +0100" stop="20261130070000 +0100" channel="RDSSocialTV.it">
-    <title lang="it">Max &amp; Roberta Fiore</title>
-    <desc lang="it">Con Roberta Fiore, Max Del Buono.</desc>
+    <title lang="it">Beppe &amp; Melania</title>
+    <desc lang="it">Con Melania Agrimano, Beppe De Marco.</desc>
     <credits>
-      <presenter>Roberta Fiore</presenter>
-      <presenter>Max Del Buono</presenter>
+      <presenter>Melania Agrimano</presenter>
+      <presenter>Beppe De Marco</presenter>
     </credits>
   </programme>
   <programme start="20261130070000 +0100" stop="20261130100000 +0100" channel="RDSSocialTV.it">
@@ -289,22 +285,14 @@
     </credits>
   </programme>
   <programme start="20261130100000 +0100" stop="20261130120000 +0100" channel="RDSSocialTV.it">
-    <title lang="it">Anna &amp; Leo</title>
-    <desc lang="it">Con Anna Pettinelli, Leo Di Bello.</desc>
+    <title lang="it">Anna &amp; Sergio</title>
+    <desc lang="it">Con Anna Pettinelli, Sergio Friscia.</desc>
     <credits>
       <presenter>Anna Pettinelli</presenter>
-      <presenter>Leo Di Bello</presenter>
+      <presenter>Sergio Friscia</presenter>
     </credits>
   </programme>
-  <programme start="20261130120000 +0100" stop="20261130140000 +0100" channel="RDSSocialTV.it">
-    <title lang="it">Petra &amp; Renzo</title>
-    <desc lang="it">Con Petra Loreggian, Renzo Di Falco.</desc>
-    <credits>
-      <presenter>Petra Loreggian</presenter>
-      <presenter>Renzo Di Falco</presenter>
-    </credits>
-  </programme>
-  <programme start="20261130140000 +0100" stop="20261130150000 +0100" channel="RDSSocialTV.it">
+  <programme start="20261130120000 +0100" stop="20261130150000 +0100" channel="RDSSocialTV.it">
     <title lang="it">Petra &amp; Giovanni</title>
     <desc lang="it">Con Petra Loreggian, Giovanni Vernia.</desc>
     <credits>
@@ -337,17 +325,18 @@
     </credits>
   </programme>
   <programme start="20261201010000 +0100" stop="20261201050000 +0100" channel="RDSSocialTV.it">
-    <title lang="it">Filippo Ferraro</title>
-    <desc lang="it">Con Filippo Ferraro.</desc>
+    <title lang="it">Alessandro</title>
+    <desc lang="it">Con Alessandro Corsi.</desc>
     <credits>
-      <presenter>Filippo Ferraro</presenter>
+      <presenter>Alessandro Corsi</presenter>
     </credits>
   </programme>
   <programme start="20261201050000 +0100" stop="20261201070000 +0100" channel="RDSSocialTV.it">
-    <title lang="it">Max Del Buono</title>
-    <desc lang="it">Con Max Del Buono.</desc>
+    <title lang="it">Beppe &amp; Melania</title>
+    <desc lang="it">Con Melania Agrimano, Beppe De Marco.</desc>
     <credits>
-      <presenter>Max Del Buono</presenter>
+      <presenter>Melania Agrimano</presenter>
+      <presenter>Beppe De Marco</presenter>
     </credits>
   </programme>
   <programme start="20261201070000 +0100" stop="20261201100000 +0100" channel="RDSSocialTV.it">
@@ -408,10 +397,10 @@
     </credits>
   </programme>
   <programme start="20261202050000 +0100" stop="20261202070000 +0100" channel="RDSSocialTV.it">
-    <title lang="it">Beppe &amp; Roberta Fiore</title>
-    <desc lang="it">Con Roberta Fiore, Beppe De Marco.</desc>
+    <title lang="it">Beppe &amp; Melania</title>
+    <desc lang="it">Con Melania Agrimano, Beppe De Marco.</desc>
     <credits>
-      <presenter>Roberta Fiore</presenter>
+      <presenter>Melania Agrimano</presenter>
       <presenter>Beppe De Marco</presenter>
     </credits>
   </programme>
@@ -425,11 +414,11 @@
     </credits>
   </programme>
   <programme start="20261202100000 +0100" stop="20261202120000 +0100" channel="RDSSocialTV.it">
-    <title lang="it">Anna &amp; Leo</title>
-    <desc lang="it">Con Anna Pettinelli, Leo Di Bello.</desc>
+    <title lang="it">Anna &amp; Sergio</title>
+    <desc lang="it">Con Anna Pettinelli, Sergio Friscia.</desc>
     <credits>
       <presenter>Anna Pettinelli</presenter>
-      <presenter>Leo Di Bello</presenter>
+      <presenter>Sergio Friscia</presenter>
     </credits>
   </programme>
   <programme start="20261202120000 +0100" stop="20261202150000 +0100" channel="RDSSocialTV.it">
